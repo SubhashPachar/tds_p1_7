@@ -1,0 +1,8 @@
+{
+  "prompt": "An Edo-period Japanese ukiyo-e woodblock print. A lone archer in traditional kimono stands off-center, aiming diagonally across the composition. In the distance, one target shows a tight cluster of arrows clearly off-center (bias), while another target shows arrows scattered widely (variance). Strong asymmetrical composition, diagonal visual flow, large areas of empty space, bold expressive black outlines with slight variation, flat unmodulated colors in indigo, ochre, and muted red, minimal background, natural woodblock texture, no modern text, no symmetry, no perspective depth, no realistic shading --no typography, no English text, no digital gradients, no photorealism",
+  "model": "Gemini Pro",
+  "concept": "Bias-variance tradeoff",
+  "tradition_name": "Ukiyo-e",
+  "tradition_period": "Edo period (17th–19th century)",
+  "tradition_approach": "Used asymmetrical composition, diagonal flow, flat colors, bold variable linework, and minimal space to reflect authentic ukiyo-e grammar while depicting bias as clustered off-center arrows and variance as widely scattered arrows."
+}
